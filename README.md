@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vikash kumar...
 - 👀 I’m interested in web development and competitive programming...
-- 🌱 I’m currently learning front-end web development..
+- 🌱 I’m currently working on front-end web development..
 - 
 
 <!---
